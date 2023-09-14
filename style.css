@@ -1,6 +1,6 @@
 img {
-    height: 50px;
-    width: 50px;
+    height: 100px;
+    width: 100px;
 }
 
 div {
@@ -9,4 +9,11 @@ div {
 
 * {
     font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    padding: 20px 0px 20px 0px;
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
 }
